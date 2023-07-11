@@ -15,5 +15,5 @@ Takeoff:
 An airplane scheduled for takeoff will start (appear) at point 6 or 7 and then continue to point 8, from there to 4 for takeoff, and then to 9 (after takeoff).
 <div align="center">
 <h4>Preview of the app</h4>
-<img src="" width="800">
+<img src="https://github.com/Tali74/Flight-control/blob/main/airportSimulator.PNG" width="800">
 </div>
