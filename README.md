@@ -2,6 +2,7 @@
 The simulator will simulate airplanes approaching for landing at point 1.
 
 The simulator will simulate airplanes that wish to take off.
+<img src="https://github.com/Tali74/Flight-control/blob/main/Capture.JPG" width="800">
 
 The logical system will receive airplanes for landing or takeoff and will guide them through the following route:
 
