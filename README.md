@@ -1,4 +1,7 @@
 # Flight-control
+<div align="center">
+<h4>Purpose</h4>
+</div>
 The simulator will simulate airplanes approaching for landing at point 1.
 
 The simulator will simulate airplanes that wish to take off.
