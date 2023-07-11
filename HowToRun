@@ -1,0 +1,8 @@
+To run there is 2 files:
+
+1. pro2: run it with visual studio 2022
+run all the projects with multiple startup projects
+
+2. reactpro2: run it with visual studio code
+open the terminal and write "npm i"
+then write "npm start
