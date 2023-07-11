@@ -1,0 +1,20 @@
+.FlightHistory .table {
+  width: 50em;
+}
+.FlightHistory .table .row {
+  display: flex;
+  border-bottom: 1px solid;
+  padding: 0.5em 0;
+}
+.FlightHistory .table .t-head .row {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.FlightHistory .table .t-body .row:nth-child(odd) {
+  background-color: rgb(236, 236, 236);
+}
+
+.FlightHistory .table .row .col {
+  flex: 1;
+}

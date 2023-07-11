@@ -1,0 +1,19 @@
+.Station {
+  background-color: rgb(139, 151, 245);
+  border: 1px solid;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.Station > * {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Station .station-num {
+  opacity: 0.5;
+  font-size: 2.5em;
+}
